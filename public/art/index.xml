@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My First Post on Network-Art-Software</title>
-    <link>https://softnetart.gajdosik.org/art/</link>
+    <link>http://localhost:1313/art/</link>
     <description>Recent content in My First Post on Network-Art-Software</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Nov 2024 16:23:23 +0100</lastBuildDate><atom:link href="https://softnetart.gajdosik.org/art/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Nov 2024 16:23:23 +0100</lastBuildDate><atom:link href="http://localhost:1313/art/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
