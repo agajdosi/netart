@@ -2,47 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Art@Net&amp;Software</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://art-net-software.gajdosik.org/tags/</link>
     <description>Recent content in Tags on Art@Net&amp;Software</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 03 Nov 2024 16:23:23 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Nov 2024 16:23:23 +0100</lastBuildDate><atom:link href="https://art-net-software.gajdosik.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aram Bartholl</title>
-      <link>http://localhost:1313/tags/aram-bartholl/</link>
+      <link>https://art-net-software.gajdosik.org/tags/aram-bartholl/</link>
       <pubDate>Sun, 03 Nov 2024 16:23:23 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/aram-bartholl/</guid>
+      <guid>https://art-net-software.gajdosik.org/tags/aram-bartholl/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Constant Dullaart</title>
-      <link>http://localhost:1313/tags/constant-dullaart/</link>
+      <link>https://art-net-software.gajdosik.org/tags/constant-dullaart/</link>
       <pubDate>Sun, 03 Nov 2024 16:23:23 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/constant-dullaart/</guid>
+      <guid>https://art-net-software.gajdosik.org/tags/constant-dullaart/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Nicolas Maigret</title>
-      <link>http://localhost:1313/tags/nicolas-maigret/</link>
+      <link>https://art-net-software.gajdosik.org/tags/nicolas-maigret/</link>
       <pubDate>Sun, 03 Nov 2024 16:23:23 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/nicolas-maigret/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>Aram Barthol</title>
-      <link>http://localhost:1313/tags/aram-barthol/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/aram-barthol/</guid>
+      <guid>https://art-net-software.gajdosik.org/tags/nicolas-maigret/</guid>
       <description></description>
       <content></content>
     </item>
