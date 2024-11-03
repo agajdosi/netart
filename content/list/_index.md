@@ -26,3 +26,9 @@ https://culturestake.org/
 
 https://arambartholl.com/first-person-shooter/
 
+https://jonsatrom.com/
+glitch
+
+https://www.janavirgin.com/works.html
+
+https://jonaslund.com/works/
