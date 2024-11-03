@@ -1,0 +1,4 @@
+baseURL = 'https://softnetart.gajdosik.org/'
+languageCode = 'en-us'
+title = 'Network-Art-Software'
+theme = 'terminal'
