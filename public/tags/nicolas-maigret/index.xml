@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Index on Art@Net&amp;Software</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Index on Art@Net&amp;Software</description>
+    <title>Nicolas Maigret on Art@Net&amp;Software</title>
+    <link>http://localhost:1313/tags/nicolas-maigret/</link>
+    <description>Recent content in Nicolas Maigret on Art@Net&amp;Software</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 03 Nov 2024 16:23:23 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Nov 2024 16:23:23 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/nicolas-maigret/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Art &amp; Peer-to-Peer</title>
       <link>http://localhost:1313/posts/peer-to-peer/</link>
