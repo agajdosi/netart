@@ -1,6 +1,6 @@
 +++
 title = 'Art & Peer-to-Peer'
-date = 2024-11-03T16:23:23+01:00
+date = 2024-11-03T16:23:11+01:00
 draft = false
 tags = [
     "Nicolas Maigret",
