@@ -32,3 +32,17 @@ glitch
 https://www.janavirgin.com/works.html
 
 https://jonaslund.com/works/
+
+
+## Organizations
+
+### AI Now Institute
+https://ainowinstitute.org/
+
+### Share Lab
+WHERE INDIE DATA PUNK, MEETS MEDIA THEORY POP TO INVESTIGATE DIGITAL RIGHTS BLUES
+https://labs.rs/en/about/
+
+### RYBN.org
+
+https://rybn.org/human_computers/timeline.php
