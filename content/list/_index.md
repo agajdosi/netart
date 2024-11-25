@@ -33,6 +33,9 @@ https://www.janavirgin.com/works.html
 
 https://jonaslund.com/works/
 
+https://pplkpr.com/ - appka na automaticke zarazovani/vyrazovani pratel
+
+https://www.whopaysartists.com/ - web na zadavni platu umelcu
 
 ## Organizations
 
