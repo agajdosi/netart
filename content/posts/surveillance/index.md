@@ -7,6 +7,13 @@ tags = [
 ]
 +++
 
+### Tally Saves the Internet - Owen Mundy ()
+"Tally Saves the Internet is a browser extension that transforms data advertisers collect into a multiplayer game. Once installed, a friendly pink blob named Tally lives in the corner of your screen and warns you when companies translate your human experiences into free behavioral data. When Tally encounters “product monsters” (online trackers and their corresponding product marketing categories) you can capture them in a turn-based battle (e.g. “Pokémon style”) transforming the game into a progressive tracker blocker, where you earn the right to be let alone through this playful experience." - author.
+
+![screenshot](https://owenmundy.com/_site/content/tally-saves-the-internet/images_t/diagram-extension-layer-02.png)
+
+https://owenmundy.com/site/tally-saves-the-internet
+
 ### Sociality - Paolo Cirio (2018)
 In Sociality, the artist Cirio exposed the mechanisms of surveillance capitalism by documenting and reimagining over 20,000 patents for technologies designed to manipulate social behavior.
 Hacked from Google Patents, these inventions were rated and transformed into visual compositions, showcased online and in large-scale installations, posters, and a coloring book.
@@ -21,6 +28,19 @@ Through abstract flowcharts, it confronts viewers with the scale and complexity 
 
 https://datatata.info/like-un-like/
 
+### Jennifer Lyn Morone™ - 
+Fake artistic startup which enables you take ownership of your own data and become the CEO of yourself.
+Read more at the [project page](http://jenniferlynmorone.com/).
+
+{{< vimeo 98300179>}}
+
+### Give Me My Data - Owen Mundy (2009-2016)
+Give Me My Data was a Facebook application by Owen Mundy that helped users export their data out of the Facebook platform.
+Reasons included making artwork, archiving and deleting your account, or circumventing the interface Facebook provides.
+Data could have been exported in CSV, XML, and other formats.
+
+https://owenmundy.com/site/give-me-my-data
+
 ### How Not to be Seen: A Fucking Didactic Educational .MOV - Hito Steyerl (2013)
 Hito Steyerl's video works examine how images reflect and shape the systems of the contemporary world.
 In a satirical take on surveillance, she offers tongue-in-cheek strategies for staying "unseen" in an age of hyper-visibility.
@@ -29,6 +49,9 @@ Steyerl asks, "How do people disappear in an age of total over-visibility?
 Do they become images themselves?"
 {{< vimeo 125475136>}}
 
+### Vibe Check - Lauren Lee McCarthy & Kyle McDonald
+
+https://lauren-mccarthy.com/Vibe-Check
 
 # Counter strategy: Obfuscation
 

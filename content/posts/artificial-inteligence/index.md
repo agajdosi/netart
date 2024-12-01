@@ -196,6 +196,14 @@ Trained on classic European portraiture, the neural network creates images with 
 
 ---
 
+## Autonomous Trap - James Bridle (2017)
+
+A trap for an autonomous car.
+
+http://jamesbridle.com/works/autonomous-trap-001
+
+{{ < vimeo 208642358 >}}
+
 # Additional Sources
 
 ## The Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence - Kate Crawford
