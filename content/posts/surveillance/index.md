@@ -99,3 +99,6 @@ If this marks the end of capitalism, Wark provocatively asks: could it be someth
 Since these events, the principles of computable theory have surrounded the world in the form of billions of interconnected digital machines whose inner logic determines our daily lives in an unprecedented way. The study of the inner logic of such ubiquitous medium as the digital medium could be seen as an appropriate tool for artists working on, within or through this complex digital environment. The following study reflects the historical events that have led to the emergence of digital phenomena and discusses the specific interaction between humans and digital machines in terms of dividuum. Finally, it also designs a model for an exploration of the dividuum. This designed model is later constructed on the top of the graph theory as a non-human, technologically determined agent whose computable logic can trigger autonomous events and thus be a part of a creation of reality." - annotation of the article.
 https://vvp.avu.cz/sesit/sesit-27/
 
+### From Surveillance Capitalism to Glitch Capitalism - Disnovation.org
+
+https://disnovation.org/doc/FSCTGC_DISNOVATION.pdf

@@ -11,7 +11,8 @@ tags = [
     "Barbora Trnková",
     "Tomáš Javůrek",
     "Lauren Lee McCarthy",
-    "Kyle McDonald"
+    "Kyle McDonald",
+    "James Bridle"
 ]
 +++
 
@@ -202,7 +203,7 @@ A trap for an autonomous car.
 
 http://jamesbridle.com/works/autonomous-trap-001
 
-{{ < vimeo 208642358 >}}
+![](autotrap.jpg)
 
 # Additional Sources
 
