@@ -1,9 +1,20 @@
 +++
 title = 'Art & Surveillance Capitalism'
-date = 2024-12-01T17:23:23
-draft = true
+date = 2024-12-08T17:23:23
+draft = false
 tags = [
     "Paolo Cirio",
+    "Owen Mundy",
+    "Metazoa",
+    "Barbora Trnková",
+    "Tomáš Javůrek",
+    "Jennifer Lynn Morone",
+    "Ben Grosser",
+    "Hito Steyerl",
+    "Lauren Lee McCarthy",
+    "Kyle McDonald",
+    "Fernandez Plummer",
+    "Annina Ruest"
 ]
 +++
 
@@ -24,7 +35,7 @@ Through abstract flowcharts, it confronts viewers with the scale and complexity 
 
 ![poster](https://paolocirio.net/work/sociality/Sociality-pics-MIT-show-web/DSC_1614.jpg)
 
-### Like-Un-Like - Metazoa (2019)
+### Like-Un-Like - Metazoa [Barbora Trnková, Tomáš Javůrek] (2019)
 
 https://datatata.info/like-un-like/
 
